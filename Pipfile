@@ -43,6 +43,7 @@ joblib = "*"
 ipykernel = "*"
 black = "*"
 jupyter = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.8"
